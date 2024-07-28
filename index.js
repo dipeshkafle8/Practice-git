@@ -1,2 +1,6 @@
 const age=24;
-console.log("Hello");
+let name="Dipesh";
+function sum(){
+    return 10+20;
+}
+sum();
